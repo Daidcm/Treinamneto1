@@ -8,18 +8,27 @@
 	Daiane Cristine de Melo 
 
 </h1>
-
-<p><b>Descrição</b></p>
+<section class="descrição">
+<h2>Descrição</h2>
 <p>Suco de cevadiss, é um leite divinis, qui tem lupuliz, matis, aguis e fermentis. Interagi no mé, cursus quis, vehicula ac nisi. Aenean vel dui dui. Nullam leo erat, aliquet quis tempus a, posuere ut mi. Ut scelerisque neque et turpis posuere pulvinar pellentesque nibh ullamcorper.</p>
 <p>Suco de cevadiss, é um leite divinis, qui tem lupuliz, matis, aguis e fermentis. Interagi no mé, cursus quis, vehicula ac nisi. Aenean vel dui dui. Nullam leo erat, aliquet quis tempus a, posuere ut mi. Ut scelerisque neque et turpis posuere pulvinar pellentesque nibh ullamcorper.</p>
 <p>Suco de cevadiss, é um leite divinis, qui tem lupuliz, matis, aguis e fermentis. Interagi no mé, cursus quis, vehicula ac nisi. Aenean vel dui dui. Nullam leo erat, aliquet quis tempus a, posuere ut mi. Ut scelerisque neque et turpis posuere pulvinar pellentesque nibh ullamcorper.</p>
+</section>
 
-
-<p><strong>Contato</strong></p>
-
-<p><u>Telefone:</u> (99)9999-9999</p>
-<p><b>E-mail:</b> daiane@mobiliza.com.br</p>
-<p><b>Endereço:</b> Rua: yeyeyey, bloco 2 </p>
+<section class="contato">
+ <h2>Contato</h2>
+   <ul>
+  <li>
+  	Telefone:</strong> (99)9999-9999</strong>
+  </li>
+  <li>
+   E-mail:</strong> daiane@mobiliza.com.br</strong>
+</li>
+<li>
+  Endereço:</strong> Rua: yeyeyey, bloco 2 </stong>
+</li>
+</ul>
+</section>
 
 
 </body>
